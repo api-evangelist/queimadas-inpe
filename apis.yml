@@ -1,4 +1,16 @@
 aid: queimadas-inpe
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/queimadas-inpe.png
 name: Queimadas INPE
 description: "Access to heat focus data (probable wildfire)"
 url: https://queimadas.dgi.inpe.br/queimadas/dados-abertos/
