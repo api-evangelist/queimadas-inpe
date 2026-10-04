@@ -39,7 +39,6 @@ apis:
   - name: Queimadas INPE
     description: "Access to heat focus data (probable wildfire)"
     humanURL: https://queimadas.dgi.inpe.br/queimadas/dados-abertos/
-    baseURL: https://queimadas.dgi.inpe.br/queimadas/dados-abertos/
     tags:
       - Geocoding
     properties:
